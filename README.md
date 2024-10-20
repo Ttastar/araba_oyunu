@@ -2,9 +2,9 @@
 👨‍💻 Unity ile Bitirme Dersi Projesi olarak yaptığım KossCar oyunu.
 
 # Öğrenci Bilgisi
-- 👨🏻‍💼 Erdi İrden
-- 🔢 205541305
-- 🌐 [https://www.linkedin.com/in/erdi-irden/](https://www.linkedin.com/in/erdi-irden/)
+- 👨🏻‍💼 İzzet Özgür ÖNDER  
+- 🔢 205541010
+
 
 ## APK İndir
 📲 KossCarAPK.rar dosyasını indirerek oyunu apk olarak elde edebilirsiniz.
